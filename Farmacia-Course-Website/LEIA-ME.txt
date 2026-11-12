@@ -1,0 +1,19 @@
+FARMÁCIA COURSE WEBSITE — versão HTML, CSS e JavaScript
+
+COMO ABRIR
+1. Extraia o arquivo ZIP para uma pasta do computador.
+2. Abra a pasta.
+3. Dê dois cliques em index.html para abrir a página inicial no navegador.
+4. Use o menu superior para navegar entre as quatro páginas.
+
+ARQUIVOS
+- index.html: página inicial
+- sobre.html: Sobre o Curso
+- areas.html: Áreas de Atuação
+- depoimentos.html: Depoimentos
+- css/style.css: estilos responsivos
+- js/script.js: menu mobile, navegação ativa e carrossel da página inicial
+- assets/: imagens originais exportadas do projeto
+
+OBSERVAÇÕES
+O layout foi adaptado do projeto React/TypeScript para HTML, CSS e JavaScript sem framework. Algumas imagens e a fonte Poppins são carregadas de serviços externos e precisam de internet para aparecer/carregar corretamente. Os links de redes sociais e páginas legais são marcadores porque o projeto original não fornecia URLs reais.
